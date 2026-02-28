@@ -6,4 +6,4 @@ CMPE257-HW5-Impact-By-Changing-Data-Distribution
 ⚠️ This notebook uses interactive widgets.  
 Please open in Google Colab for full functionality.
 
-👉 [Open in Colab](https://colab.research.google.com/github/NMemane1/CMPE257-HW5-Impact-By-Changing-Data-Distribution/blob/main/ML_Assignment5_Impact_By_Changing_Data_Distribution.ipynb)
+👉 [Open in Colab](https://colab.research.google.com/drive/1W9H_GcFX2lGBREX6SGzQj5gY4H0JKw3o?authuser=1#scrollTo=SV6WqTsnfClN)
